@@ -5,23 +5,27 @@
 
 /* Styles for the body */
 
-.myname {color: #DA93D0; 
+.myname {
+    color: #A8D1D2;
 }
+
+.newfont{font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";}
+
 
 .mynamebackground {background: #191858;
 }
 
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+    font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #202030;
+    background-color: #0D81BA;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #0D81BA;
 }
 
 .resume-main {
@@ -29,7 +33,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+    background-color: #EAAAF1;
 }
 
 /* Styles for lists in the document */
